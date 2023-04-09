@@ -1,1 +1,2 @@
-# ML_Attrition_Case_Study-IBM-Problem-
+# ProjectML -Simple linear regression Model
+#Attrition rate using different algorithm
